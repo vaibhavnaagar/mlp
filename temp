@@ -1,0 +1,69 @@
+RELU, adagrad
+50 nodes
+layer1 : J=0.139045
+Final Cost of training data : 0.139045 
+			Test data: 0.132907
+Predictions on Training set
+
+Training Set Accuracy: 89.098000
+Predictions on Validation set
+
+Validation Set Accuracy: 79.590000
+Predictions on test set
+
+Test Set Accuracy: 89.720000
+
+=========================
+
+layer-2: (50 nodes)
+Final Cost of training data : 0.179791 
+Final Cost of Test data : 0.176185 
+Predictions on Validation set
+
+Validation Set Accuracy: 86.870000
+Predictions on test set
+
+Test Set Accuracy: 87.430000
+
+=======================
+layer-3:(50 nodes)
+Final Cost of training data : 0.230452 
+Final Cost of Test data : 0.228285 
+Predictions on Validation set
+
+Validation Set Accuracy: 77.500000
+Predictions on test set
+
+Test Set Accuracy: 78.250000
+
+
+==========================================
+
+Final Cost of training data : 0.183007 
+Final Cost of Test data : 0.179539 
+Predictions on Validation set
+
+Validation Set Accuracy: 86.110000
+Predictions on test set
+
+Test Set Accuracy: 87.400000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
